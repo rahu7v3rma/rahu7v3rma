@@ -16,22 +16,14 @@ Approach towards project management is test oriented, scalable, maintainable and
 
 # Projects
 
-| MasteringDiabetes | ABCSafetyGroup | AtomicGrowth |
+| Nicklas | ABCSafetyGroup | AEDP Institute |
 |-----------|-----------|-----------|
-| <img src="https://github.com/user-attachments/assets/ef734e95-5ca6-4ecc-a26c-9a18117f0c70" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/209ff49c-5541-4e94-bf26-7359054d0658" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/555feee2-fbcb-42a8-ad03-37c737adc86e" width="300" height="200"/> |
-| Health management app | Training management app | Amazon seller central management app |
-| [Website](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard), [Backend](https://github.com/rahu7v3rma/md-backend), [Mobile](https://github.com/rahu7v3rma/md-app) | [Website](https://www.abcsafetygroup.com), [Frontend](https://github.com/rahu7v3rma/abc-safety-group-web), [Backend](https://github.com/rahu7v3rma/abc-safety-group-api), [Database](https://github.com/rahu7v3rma/abc-safety-group-database) | [Website](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend), [Backend](https://github.com/rahu7v3rma/atomic-backend)
+| <img src="https://github.com/user-attachments/assets/d22c89ea-863c-4c41-8959-2c47f67e60db" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/209ff49c-5541-4e94-bf26-7359054d0658" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/6230072c-5aa4-49ab-9cc0-7095fa720470" width="300" height="200"/> |
+| Custom ecommerce | Training management app | Health management app |
+| [Frontend](https://github.com/rahu7v3rma/np-frontend), [Backend](https://github.com/rahu7v3rma/np-backend) | [Website](https://www.abcsafetygroup.com), [Frontend](https://github.com/rahu7v3rma/abc-safety-group-web), [Backend](https://github.com/rahu7v3rma/abc-safety-group-api), [Database](https://github.com/rahu7v3rma/abc-safety-group-database) | [Website](https://aedpinstitute.org), [Frontend](https://github.com/rahu7v3rma/aedp-frontend) |
 
-| AEDP Institute | Cyberillium | Nicklas |
+| MasteringDiabetes | AtomicGrowth | Cyberillium |
 |-----------|-----------|-----------|
-| <img src="https://github.com/user-attachments/assets/6230072c-5aa4-49ab-9cc0-7095fa720470" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/6003bf45-e8b6-48ef-82ef-e0b5ec4ac65a" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/d22c89ea-863c-4c41-8959-2c47f67e60db" width="300" height="200"/> |
-| Health management app | Security management app | Custom ecommerce |
-| [Website](https://aedpinstitute.org), [Frontend](https://github.com/rahu7v3rma/aedp-frontend) | [Website](https://www.cyberillium.com), [Frontend](https://github.com/rahu7v3rma/cyberillium-frontend) | [Frontend](https://github.com/rahu7v3rma/np-frontend), [Backend](https://github.com/rahu7v3rma/np-backend)
-
-| Unnamed |
-| ------- |
-| Under development |
-| Clothing ecommerce |
-| [Repo](https://github.com/rahu7v3rma/unnamed) |
-
-
+| <img src="https://github.com/user-attachments/assets/ef734e95-5ca6-4ecc-a26c-9a18117f0c70" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/555feee2-fbcb-42a8-ad03-37c737adc86e" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/6003bf45-e8b6-48ef-82ef-e0b5ec4ac65a" width="300" height="200"/> |
+| Health management app | Amazon seller central management app | Security management app |
+| [Website](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard), [Backend](https://github.com/rahu7v3rma/md-backend), [Mobile](https://github.com/rahu7v3rma/md-app) | [Website](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend), [Backend](https://github.com/rahu7v3rma/atomic-backend) | [Website](https://www.cyberillium.com), [Frontend](https://github.com/rahu7v3rma/cyberillium-frontend) |
