@@ -22,7 +22,7 @@ Approach towards project management is test oriented, scalable, maintainable and
 | Health management app | Training management app | Amazon seller central management app |
 | [Website](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard), [Backend](https://github.com/rahu7v3rma/md-backend), [Mobile](https://github.com/rahu7v3rma/md-app) | [Website](https://www.abcsafetygroup.com), [Frontend](https://github.com/rahu7v3rma/abc-safety-group-web), [Backend](https://github.com/rahu7v3rma/abc-safety-group-api), [Database](https://github.com/rahu7v3rma/abc-safety-group-database) | [Website](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend), [Backend](https://github.com/rahu7v3rma/atomic-backend)
 
-| Blanq |
+| Unnamed |
 | ------- |
 | Under development |
 | Clothing ecommerce |
