@@ -22,8 +22,14 @@ Approach towards project management is test oriented, scalable, maintainable and
 | Custom ecommerce | Training management app | Health management app |
 | [Frontend](https://github.com/rahu7v3rma/np-frontend), [Backend](https://github.com/rahu7v3rma/np-backend) | [Website](https://www.abcsafetygroup.com), [Frontend](https://github.com/rahu7v3rma/abc-safety-group-web), [Backend](https://github.com/rahu7v3rma/abc-safety-group-api), [Database](https://github.com/rahu7v3rma/abc-safety-group-database) | [Website](https://aedpinstitute.org), [Frontend](https://github.com/rahu7v3rma/aedp-frontend) |
 
-| MasteringDiabetes | AtomicGrowth | Cyberillium |
+| MasteringDiabetes | Clighttech | AtomicGrowth |
 |-----------|-----------|-----------|
-| <img src="https://github.com/user-attachments/assets/ef734e95-5ca6-4ecc-a26c-9a18117f0c70" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/555feee2-fbcb-42a8-ad03-37c737adc86e" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/6003bf45-e8b6-48ef-82ef-e0b5ec4ac65a" width="300" height="200"/> |
-| Health management app | Amazon seller central management app | Security management app |
-| [Website](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard), [Backend](https://github.com/rahu7v3rma/md-backend), [Mobile](https://github.com/rahu7v3rma/md-app) | [Website](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend), [Backend](https://github.com/rahu7v3rma/atomic-backend) | [Website](https://www.cyberillium.com), [Frontend](https://github.com/rahu7v3rma/cyberillium-frontend) |
+| <img src="https://github.com/user-attachments/assets/ef734e95-5ca6-4ecc-a26c-9a18117f0c70" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/9dcc4375-ab2e-43a6-95a7-2ea006f6bc7b" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/555feee2-fbcb-42a8-ad03-37c737adc86e" width="300" height="200"/> |
+| Health management app | Health management app | Amazon seller central management app |
+| [Website](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard), [Backend](https://github.com/rahu7v3rma/md-backend), [Mobile](https://github.com/rahu7v3rma/md-app) | [Website](http://clighttechnologies.com/), [Frontend](https://github.com/rahu7v3rma/clighttech-dashboard), [Backend](https://github.com/rahu7v3rma/clighttech-backend) | [Website](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend), [Backend](https://github.com/rahu7v3rma/atomic-backend) |
+
+| Cyberillium |
+|-----------|
+| <img src="https://github.com/user-attachments/assets/6003bf45-e8b6-48ef-82ef-e0b5ec4ac65a" width="300" height="200"/> |
+| Security management app |
+| [Website](https://www.cyberillium.com), [Frontend](https://github.com/rahu7v3rma/cyberillium-frontend) |
