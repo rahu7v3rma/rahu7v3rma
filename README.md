@@ -13,8 +13,8 @@ Approach towards project management is test oriented, scalable, maintainable and
 | Custom ecommerce | Training management app | Health management app |
 | [Frontend](https://github.com/rahu7v3rma/np-frontend) | [Client](https://www.abcsafetygroup.com), [Frontend](https://github.com/rahu7v3rma/abc-safety-group-web) | [Client](https://aedpinstitute.org/), [Frontend](https://github.com/rahu7v3rma/aedp-frontend) |
 
-| MasteringDiabetes | AtomicGrowth |
-|-----------|-----------|
-| <img src="https://github.com/user-attachments/assets/7042e29c-962e-46db-b520-1422cd983f5c" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/531374c8-bebd-4755-aa52-8abdb71a3e59" width="300" height="200"/> |
-| Health management app | Amazon seller central management app |
-| [Client](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard) | [Client](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend) |
+| AtomicGrowth | MasteringDiabetes | MasteringDiabetes Mobile App |
+|-----------|-----------|-----------|
+| <img src="https://github.com/user-attachments/assets/531374c8-bebd-4755-aa52-8abdb71a3e59" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/7042e29c-962e-46db-b520-1422cd983f5c" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/7e3b7107-aa47-4fd7-babd-8900c378601b" width="200" height="300"/> |
+| Amazon seller central management app | Health management app | Health management app |
+| [Client](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend) | [Client](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard) | [Client](https://www.masteringdiabetes.org/), [Mobile App](https://github.com/rahu7v3rma/md-app) |
