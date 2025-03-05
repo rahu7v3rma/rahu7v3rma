@@ -1,29 +1,20 @@
 # Intro
-5 years of experience and exceptional problem solving skills in web development.
-
-- Languages: Javascript, Typescript, Python
-- Frontend: React, Next, React-Native
-- Backend: Django, FastAPI, Chalice, Node, Express
-- Database: SQL, Redis, MongoDB
-- DevOps: Linux, CI-CD
-- Scraper: Selenium, Pyppeteer
+5 years of experience and exceptional problem solving skills in frontend development including javascript, typescript, react, next, redux, materialui, tailwind.
 
 Contributed to 10 plus projects covering the industries of construction, health, education and ecommerce.
-
-Worked on designing, user interfaces, APIs, database management and client handling.  
 
 Approach towards project management is test oriented, scalable, maintainable and modular using abstraction, reusability and separation of concern to keep the project compact.
 
 # Projects
 
-| ABCSafetyGroup | MasteringDiabetes | AtomicGrowth |
+| Nicklas | ABCSafetyGroup | AEDP Institute |
 |-----------|-----------|-----------|
-| <img src="https://github.com/user-attachments/assets/209ff49c-5541-4e94-bf26-7359054d0658" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/ef734e95-5ca6-4ecc-a26c-9a18117f0c70" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/555feee2-fbcb-42a8-ad03-37c737adc86e" width="300" height="200"/> |
-| Training management app | Health management app | Amazon seller central management app |
-| [Website](https://www.abcsafetygroup.com), [Frontend](https://github.com/rahu7v3rma/abc-safety-group-web), [Backend](https://github.com/rahu7v3rma/abc-safety-group-api), [Database](https://github.com/rahu7v3rma/abc-safety-group-database) | [Website](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard), [Backend](https://github.com/rahu7v3rma/md-backend), [Mobile](https://github.com/rahu7v3rma/md-app) | [Website](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend), [Backend](https://github.com/rahu7v3rma/atomic-backend) |
+| <img src="https://github.com/user-attachments/assets/bca993c1-5161-44af-94bf-1bc4b17ed782" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/f9b1bff9-9aca-4d76-8dd5-1ea2b4d6286a" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/9dc321d3-d912-4897-b1f8-f8c6634d9a24" width="300" height="200"/> |
+| Custom ecommerce | Training management app | Health management app |
+| [Frontend](https://github.com/rahu7v3rma/np-frontend) | [Client](https://www.abcsafetygroup.com), [Frontend](https://github.com/rahu7v3rma/abc-safety-group-web) | [Client](https://aedpinstitute.org/), [Frontend](https://github.com/rahu7v3rma/aedp-frontend) |
 
-| Clighttech |
-|-----------|
-| <img src="https://github.com/user-attachments/assets/9dcc4375-ab2e-43a6-95a7-2ea006f6bc7b" width="300" height="200"/> |
-| Health management app |
-| [Website](http://clighttechnologies.com/), [Frontend](https://github.com/rahu7v3rma/clighttech-dashboard), [Backend](https://github.com/rahu7v3rma/clighttech-backend) |
+| MasteringDiabetes | AtomicGrowth |
+|-----------|-----------|
+| <img src="https://github.com/user-attachments/assets/7042e29c-962e-46db-b520-1422cd983f5c" width="300" height="200"/> | <img src="https://github.com/user-attachments/assets/531374c8-bebd-4755-aa52-8abdb71a3e59" width="300" height="200"/> |
+| Health management app | Amazon seller central management app |
+| [Client](https://www.masteringdiabetes.org/), [Frontend](https://github.com/rahu7v3rma/md-coach-dashboard) | [Client](https://www.atomic-growth.com), [Frontend](https://github.com/rahu7v3rma/atomic-frontend) |
