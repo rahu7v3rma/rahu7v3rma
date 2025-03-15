@@ -1,5 +1,5 @@
 # Intro
-5 years of experience and exceptional problem solving skills in frontend development including javascript, typescript, react, next, redux, materialui, tailwind.
+5 years of experience and exceptional problem solving skills in frontend development including javascript, typescript, react, next, react-native, redux, jest and react testing library.
 
 Contributed to 10 plus projects covering the industries of construction, health, education and ecommerce.
 
